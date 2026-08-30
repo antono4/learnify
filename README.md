@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/antono4/learnify"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/learnify-blue?logo=github"></a>
   <a href="https://antono4.github.io/learnify/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-5624-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 13:26:12 WIB-lightgrey">
+  <img alt="Files" src="https://img.shields.io/badge/Files-5628-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-30 19:50:01 WIB-lightgrey">
 </p>
 
 ---
@@ -50,7 +50,7 @@ Berdasarkan isi repository, proyek ini menggunakan:
 - `JavaScript`
 - `PHP`
 
-> Total **5624 file** terdeteksi di repository.
+> Total **5628 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
@@ -76,5 +76,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-30 13:26:12 WIB** oleh GitHub Actions .</sub>
-Last updated: 2026-08-30 19:47:55 WIB
+<sub>README ini di-generate otomatis pada **2026-08-30 19:50:01 WIB** oleh GitHub Actions .</sub>
