@@ -1,2 +1,30 @@
-Last updated: 2026-09-04 15:58:46 WIB
-Last updated: 2026-09-04 16:10:49 WIB
+# learnify
+
+
+
+## 📋 Overview
+
+This repository contains **5628 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-04 16:20:24 WIB*
